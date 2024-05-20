@@ -2,7 +2,7 @@
 <h3 align="center">I'm just a robot that passed the Turing test</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinja-hatamian&label=Profile%20views&color=0e75b6&style=flat" alt="sinja-hatamian" /> </p>
+<p align="left"></p>
 
 - 🌱 I’m currently learning **AI,Web development**
 
