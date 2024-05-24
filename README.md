@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **better know meaning of wubba lubba dub dub!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
