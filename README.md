@@ -49,7 +49,6 @@
 ### 📬 Get in Touch
 - 📧 **Email:** [sinjadev@gmail.com](mailto:sinjadev@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sina-hatamian-519637199)  
-- 🐦 [Twitter/X](https://twitter.com/) *(if you have one)*  
 
 ---
 
