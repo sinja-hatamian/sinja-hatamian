@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-- 💼 **CTO** at Blitz Agency, working on multi-industry projects from AR menus to CRM systems.  
+- 💼 **CTO** at Blitz Agency, working on multi-industry projects
 - 🛠 **Full-Stack Dev** — React, Node.js, Python, WordPress, and whatever gets the job done.  
 - 🤖 Exploring **AI/LLM applications** and building automation tools.  
 - 🌍 Interested in products that **make life easier & more human-friendly**.  
