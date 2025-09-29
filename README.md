@@ -17,14 +17,6 @@
 
 ---
 
-### 🔥 Current Focus
-- Developing an **AI-powered AR platform**.  
-- Leading **multi-branch IT transformations**.  
-- Experimenting with **AI agents** and **blockchain concepts**.  
-- Keeping up with emerging tech while shipping real products.
-
----
-
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="50"/> 
@@ -52,4 +44,3 @@
 
 ---
 
-💡 *"Code is just the medium — solving problems is the art."*
