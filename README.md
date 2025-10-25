@@ -3,8 +3,7 @@
 
 <p align="center">
   🚀 Turning ideas into products.  
-  🎯 Building AI, AR, and web experiences that actually make a difference.  
-  🎵 Post-rock enjoyer & eternal learner.  
+  🎯 Co-founder of LoreSpinner
 </p>
 
 ---
