@@ -45,10 +45,3 @@ Currently focused on:
 ⚙️ DevOps & Infrastructure  
 🎨 Creative Web Development
 
-## Philosophy
-
-> Build fast. Architect for change. Ship real products.
-
----
-
-Always building, learning, and experimenting.
