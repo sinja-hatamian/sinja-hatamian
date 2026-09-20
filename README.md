@@ -45,7 +45,4 @@ Currently focused on:
 ⚙️ DevOps & Infrastructure  
 🎨 Creative Web Development
 
-## Contact
 
-LinkedIn: www.linkedin.com/in/sina-hatamian-519637199
-Email: sinjadev@gmail.com
